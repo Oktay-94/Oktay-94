@@ -51,4 +51,4 @@ Werte.
 
 ### Kontakt
 
-[LinkedIn](https://www.linkedin.com/in/DEIN-PFAD) · <deine@adresse.de>
+[LinkedIn](https://www.linkedin.com/in/DEIN-ECHTER-PFAD) · <deine.echte@adresse.de>
