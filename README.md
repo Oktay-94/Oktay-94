@@ -49,7 +49,6 @@ Werte.
 
 ---
 
-<!-- ANPASSEN: eigene Kontaktzeile eintragen oder diesen Block loeschen -->
 ### Kontakt
 
-LinkedIn: *hier eintragen* · E-Mail: *hier eintragen*
+[LinkedIn](https://www.linkedin.com/in/DEIN-PFAD) · <deine@adresse.de>
