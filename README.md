@@ -2,6 +2,10 @@
 
 Ich baue Systeme, die ohne mich weiterlaufen — und dokumentiere, warum sie es tun.
 
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**AWS Certified Cloud Practitioner** — CLF-C02, bestanden im Juli 2026.
+
 Aktuell betreibe ich eine selbst gebaute Automatisierungslandschaft aus
 28 n8n-Workflows, zwei Next.js-Anwendungen, einer PostgreSQL-Datenbank und
 einem Browser-Agenten. Sie läuft täglich unbeaufsichtigt auf eigener Hardware.
