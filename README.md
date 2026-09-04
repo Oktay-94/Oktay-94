@@ -19,6 +19,7 @@ einem Browser-Agenten. Sie läuft täglich unbeaufsichtigt auf eigener Hardware.
 | **[Job Application Cockpit](https://github.com/Oktay-94/job-application-cockpit)** | Next.js-Oberfläche für den kompletten Bewerbungs-Lebenszyklus: Pipeline-Ansicht, Scoring, Anschreiben-Vorschau, Versandqueue, Rückmeldungs-Tracking. Installierbare PWA. **[Live-Demo](https://job-application-cockpit-demo.vercel.app)** |
 | **[n8n Job Application Automation](https://github.com/Oktay-94/n8n-job-automation)** | Das Backend dazu: 28 produktive Workflows, Architektur, Betriebsdisziplin, über 240 dokumentierte Stolpersteine aus dem Realbetrieb |
 | **[Document Cockpit](https://github.com/Oktay-94/document-cockpit)** | Dokumentenverwaltung mit OCR, semantischer Suche über Embeddings, Fristenerkennung und Chat über den eigenen Bestand |
+| **[CertOps](https://github.com/Oktay-94/certops)** | Lernplattform für AWS-Zertifizierungen: Karteikarten, Prüfungssimulation, Szenario-Karten mit Architekturdiagrammen. 53 Testdateien, CI-Pipeline. [Live](https://certops-omega.vercel.app) |
 
 ---
 
@@ -45,14 +46,15 @@ Werte.
 
 ### Stack
 
-**Sprachen** TypeScript · SQL · Python · Bash
-**Frontend** Next.js (App Router) · React · Tailwind CSS
-**Daten** PostgreSQL · Vektorsuche über Embeddings
-**Automatisierung** n8n (selbst gehostet) · REST-Integrationen · Webhooks
-**Betrieb** macOS/Linux · Tailscale · Vercel · Git
+- **Sprachen** — TypeScript · SQL · Python · Bash · C#
+- **Frontend** — Next.js (App Router) · React · Tailwind CSS
+- **Daten** — PostgreSQL · Vektorsuche über Embeddings
+- **Automatisierung** — n8n (selbst gehostet) · REST-Integrationen · Webhooks
+- **Qualität** — Vitest · GitHub Actions · Typprüfung im CI
+- **Betrieb** — macOS/Linux · Tailscale · Vercel · Git
 
 ---
 
 ### Kontakt
 
-[LinkedIn](https://www.linkedin.com/in/DEIN-ECHTER-PFAD) · <deine.echte@adresse.de>
+[LinkedIn](https://www.linkedin.com/in/oktay-akyuez) · <oktay.akyuez@outlook.de>
