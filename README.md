@@ -25,10 +25,10 @@ Fachinformatiker Anwendungsentwicklung (IHK) · AWS Certified Cloud Practitioner
 
 | Projekt | Worum es geht |
 |---|---|
+| **[Internetsteuerung Lab](https://github.com/Oktay-94/internetsteuerung-lab)**<br>Nachbau meines IHK-Abschlussprojekts | Lehrkräfte sperren das Internet eines Schulungsraums über die REST-API einer OPNsense-Firewall. C#/.NET 8 mit Blazor und WinForms, Docker-Lab mit echter Sperre (nftables), echte OPNsense als VM in QEMU, CI für Linux, Windows und das Lab. Original bewertet mit „gut“ (84 Punkte). |
 | **Automatisierungsplattform**<br>[Oberfläche](https://github.com/Oktay-94/job-application-cockpit) · [Backend](https://github.com/Oktay-94/n8n-job-automation) | Eine n8n-Datenpipeline holt Stellenanzeigen über zwei APIs, bewertet sie per LLM und führt jeden Zustand in PostgreSQL. Dazu eine Next.js-Oberfläche als installierbare PWA und Wächter-Workflows, die stille Ausfälle erkennen. Seit Juni 2026 jeden Tag unbeaufsichtigt im Betrieb. **[Live-Demo](https://job-application-cockpit-demo.vercel.app)** |
 | **[CertOps](https://github.com/Oktay-94/certops)** | Lernplattform für AWS-Zertifizierungen: Karteikarten, Prüfungssimulation, Szenario-Karten mit Architekturdiagrammen. 53 Testdateien, CI mit Lint, Typecheck, Tests und Build. **[Live](https://certops-omega.vercel.app)** |
 | **[Document Cockpit](https://github.com/Oktay-94/document-cockpit)** | Dokumentenverwaltung mit OCR, semantischer Suche über Embeddings (pgvector, RAG), Fristenerkennung und Chat über den eigenen Bestand |
-| **IHK-Abschlussprojekt** | C#/.NET-8-Anwendung, die eine OPNsense-Firewall über ihre REST-API steuert: Internetzugang eines Schulungsraums per Klick sperren und zeitgesteuert freigeben. Bewertet mit „gut“ (84 Punkte). |
 
 ---
 
@@ -61,6 +61,7 @@ Werte.
 - **Automatisierung:** n8n (selbst gehostet) · REST-Integrationen · Webhooks
 - **Qualität:** Vitest · GitHub Actions · Typprüfung im CI
 - **Cloud und Betrieb:** AWS (EC2, S3, IAM, VPC) · Linux · Vercel · Tailscale · Git
+- **Virtualisierung und Container:** Docker Compose · QEMU · VMware · Hyper-V · Citrix
 
 ---
 
